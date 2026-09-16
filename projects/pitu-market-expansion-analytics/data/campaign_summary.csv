@@ -1,0 +1,7 @@
+metric,baseline,outcome,unit,status
+Active distributor accounts,3,11,accounts,reconstructed aggregate
+Retail locations stocking product,5,30,locations,reconstructed estimate
+Education-led engagement rate,1.2,4.8,percent,reconstructed aggregate
+Comparison engagement rate,1.2,1.4,percent,reconstructed aggregate
+Campaign duration,0,24,months,reported campaign parameter
+Monthly campaign investment,0,10000,USD,reported campaign parameter
