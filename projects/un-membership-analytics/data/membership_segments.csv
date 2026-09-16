@@ -1,0 +1,4 @@
+segment,members,share_pct,priority,rationale
+Active,190,38,Retain,Currently engaged and renewed
+Lapsed,235,47,Reactivate,Previously engaged with a lower barrier to return
+Never renewed,75,15,Nurture,Needs stronger education and value proof
