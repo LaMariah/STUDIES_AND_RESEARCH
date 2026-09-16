@@ -53,6 +53,21 @@ A reconstructed market-entry case showing how product education, consumer engage
 
 ---
 
+## ⭐ Nonprofit analytics, SOS EB Kids Fundraising and Donor Journey
+
+A privacy-conscious case showing how nonprofit storytelling, proposal development, donor-journey design, and KPI planning support fundraising decisions.
+
+**Project highlights**
+- Contributed to fundraising proposal and donor-funnel development
+- Supported work connected with **BrazilFoundation funding**
+- Documented individual-donor and institutional-funding journeys
+- Built an illustrative analytics model without exposing donor or beneficiary data
+
+**Built with:** Python · SQL · fundraising analytics · donor journey mapping · KPI design
+📄 **Explore the project:** [projects/sos-eb-kids-fundraising-analytics](projects/sos-eb-kids-fundraising-analytics)
+
+---
+
 ## ⭐ Final project — NYC Noise Complaints: Temporal Patterns
 
 An analysis of NYC 311 noise-complaint data (2022–2025) examining how **time of day, day of week, and season** shape the city's noise landscape — and how young-adult neighborhoods drive the patterns.
@@ -101,6 +116,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 ├── README.md
 ├── projects/un-membership-analytics/       # UN membership and engagement case
 ├── projects/pitu-market-expansion-analytics/ # Commercial market-entry case
+├── projects/sos-eb-kids-fundraising-analytics/ # Nonprofit fundraising case
 ├── laguardia.html                    # Applied research — The First-Gen Cliff (NEH)
 ├── finalprojectpresent.qmd / .html   # Final project — NYC Noise
 ├── mp03.qmd / mp03.html              # Mini-project — Ultimate Playlist
@@ -119,6 +135,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 - **Analytics:** R, Python, SQL, ggplot2, segmentation, funnel analysis, exploratory data analysis
 - **Reporting:** Quarto — literate programming (code + narrative + output in one document)
 - **Communication:** translating analysis into clear visuals and recommendations for non-technical stakeholders
+- **Nonprofit:** digital fundraising, donor journey mapping, grant pipeline design, privacy-conscious reporting
 - **Workflow:** Git version control, reproducible rendering, GitHub Pages publishing
 - **Data:** public/open datasets (NYC Open Data, Spotify, Million Playlist Dataset)
 - **Languages:** English, Portuguese, Spanish, Italian
