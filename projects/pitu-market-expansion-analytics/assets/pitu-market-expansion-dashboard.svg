@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Pitu Cachaça US market expansion analytics dashboard</title>
+  <desc id="desc">Dashboard showing reconstructed distributor growth, engagement comparison, retail availability, and estimated return on investment.</desc>
+  <style>
+    .bg{fill:#f4f1eb}.panel{fill:#fff}.red{fill:#a51f2d}.dark{fill:#2f2522}.gold{fill:#c58a2b}.green{fill:#39785c}.gray{fill:#8d8179}.ink{fill:#2f2522}.muted{fill:#746a64}.white{fill:#fff}.h1{font:700 28px Arial,sans-serif}.h2{font:700 18px Arial,sans-serif}.kpi{font:700 35px Arial,sans-serif}.label{font:700 13px Arial,sans-serif}.body{font:14px Arial,sans-serif}.small{font:12px Arial,sans-serif}.grid{stroke:#e2ddd7;stroke-width:1}.barlabel{font:700 13px Arial,sans-serif;fill:#2f2522}
+  </style>
+  <rect class="bg" width="1200" height="680"/>
+  <rect class="red" x="35" y="28" width="1130" height="72" rx="4"/>
+  <text class="h1 white" x="58" y="64">Pitu Cachaça US Market Expansion</text>
+  <text class="body white" x="58" y="86">Reconstructed portfolio analytics | New York and New Jersey | 2019 to 2021</text>
+
+  <g transform="translate(35 118)"><rect class="panel" width="260" height="94" rx="4"/><text class="label muted" x="20" y="27">DISTRIBUTOR GROWTH</text><text class="kpi green" x="20" y="68">+267%</text><text class="small muted" x="150" y="65">3 to 11 accounts</text></g>
+  <g transform="translate(310 118)"><rect class="panel" width="260" height="94" rx="4"/><text class="label muted" x="20" y="27">EDUCATION CONTENT</text><text class="kpi gold" x="20" y="68">3.43x</text><text class="small muted" x="135" y="65">engagement ratio</text></g>
+  <g transform="translate(585 118)"><rect class="panel" width="260" height="94" rx="4"/><text class="label muted" x="20" y="27">RETAIL AVAILABILITY</text><text class="kpi red" x="20" y="68">30</text><text class="small muted" x="80" y="65">estimated locations</text></g>
+  <g transform="translate(860 118)"><rect class="panel" width="305" height="94" rx="4"/><text class="label muted" x="20" y="27">ESTIMATED 3-YEAR ROI</text><text class="kpi green" x="20" y="68">58.3%</text><text class="small muted" x="150" y="65">scenario model</text></g>
+
+  <g transform="translate(35 230)">
+    <rect class="panel" width="548" height="410" rx="4"/><text class="h2 ink" x="22" y="32">Account and retail growth</text>
+    <line class="grid" x1="64" y1="350" x2="515" y2="350"/><line class="grid" x1="64" y1="270" x2="515" y2="270"/><line class="grid" x1="64" y1="190" x2="515" y2="190"/><line class="grid" x1="64" y1="110" x2="515" y2="110"/>
+    <rect class="red" x="100" y="320" width="65" height="30"/><rect class="red" x="235" y="280" width="65" height="70"/><rect class="red" x="370" y="240" width="65" height="110"/>
+    <rect class="gold" x="168" y="300" width="65" height="50"/><rect class="gold" x="303" y="180" width="65" height="170"/><rect class="gold" x="438" y="50" width="65" height="300"/>
+    <text class="barlabel" x="122" y="312">3</text><text class="barlabel" x="257" y="272">7</text><text class="barlabel" x="389" y="232">11</text>
+    <text class="barlabel" x="188" y="292">5</text><text class="barlabel" x="322" y="172">17</text><text class="barlabel" x="456" y="42">30</text>
+    <text class="body ink" x="116" y="378">Start</text><text class="body ink" x="247" y="378">Year 1</text><text class="body ink" x="382" y="378">Year 2</text>
+    <rect class="red" x="110" y="394" width="16" height="10"/><text class="small muted" x="132" y="403">Distributor accounts</text><rect class="gold" x="275" y="394" width="16" height="10"/><text class="small muted" x="297" y="403">Retail locations</text>
+  </g>
+
+  <g transform="translate(600 230)">
+    <rect class="panel" width="565" height="198" rx="4"/><text class="h2 ink" x="22" y="32">Message approach engagement</text>
+    <text class="body ink" x="22" y="82">Education-led</text><rect class="green" x="150" y="62" width="355" height="28"/><text class="barlabel" x="514" y="82">4.8%</text>
+    <text class="body ink" x="22" y="134">Brand-led</text><rect class="gray" x="150" y="114" width="104" height="28"/><text class="barlabel" x="264" y="134">1.4%</text>
+    <text class="small muted" x="22" y="175">Directional comparison using reconstructed aggregate values</text>
+  </g>
+
+  <g transform="translate(600 442)">
+    <rect class="panel" width="565" height="198" rx="4"/><text class="h2 ink" x="22" y="32">Three-year ROI scenario</text>
+    <rect class="red" x="40" y="70" width="220" height="56"/><text class="label white" x="64" y="92">CAMPAIGN COST</text><text class="h2 white" x="64" y="116">$240,000</text>
+    <rect class="green" x="305" y="70" width="220" height="56"/><text class="label white" x="329" y="92">ESTIMATED REVENUE</text><text class="h2 white" x="329" y="116">$380,000</text>
+    <text class="small muted" x="40" y="158">Estimated ROI = ($380,000 - $240,000) / $240,000 = 58.3%</text>
+    <text class="small muted" x="40" y="180">Scenario calculation, not an audited financial result</text>
+  </g>
+</svg>
