@@ -1,0 +1,7 @@
+input,value,unit,classification
+Monthly campaign investment,10000,USD,reported campaign parameter
+Campaign duration,24,months,reported campaign parameter
+Total campaign investment,240000,USD,calculated
+Estimated annual revenue per new account,18000,USD,portfolio assumption
+Net new distributor accounts,8,accounts,calculated
+Estimated discounted three-year revenue,380000,USD,portfolio estimate
