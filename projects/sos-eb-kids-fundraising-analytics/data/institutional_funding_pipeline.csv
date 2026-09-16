@@ -1,0 +1,7 @@
+stage,measurement_definition,recommended_kpi,data_status
+Prospect identified,Potential funder matches mission and geography,Qualified prospects,framework only
+Eligibility confirmed,Organization meets published requirements,Eligibility rate,framework only
+Proposal submitted,Complete proposal delivered before deadline,Submission count,framework only
+Under review,Funder confirms active review,Review cycle time,framework only
+Funding secured,Formal award or funding confirmation,Proposal success rate,verified outcome without amount
+Reporting completed,Required narrative and financial reports accepted,On-time reporting rate,framework only
