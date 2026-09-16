@@ -23,6 +23,21 @@ A mixed-methods study quantifying why first-generation students leave college �
 
 ---
 
+## ⭐ Applied analytics, UN Latin Club Membership and Engagement
+
+A privacy-safe portfolio case showing how membership segmentation, a reactivation funnel, and weekly content reporting supported retention and programming decisions.
+
+**Key findings**
+- Lapsed members represented **47%** of the reconstructed membership base
+- **47 of 235** lapsed members renewed, a **20% reactivation rate**
+- Digital engagement increased **15% over seven weeks**
+- Endangered-languages research became the highest-performing content theme
+
+**Built with:** Python · SQL · CSV · dashboard design · lifecycle segmentation
+📄 **Explore the project:** [projects/un-membership-analytics](projects/un-membership-analytics)
+
+---
+
 ## ⭐ Final project — NYC Noise Complaints: Temporal Patterns
 
 An analysis of NYC 311 noise-complaint data (2022–2025) examining how **time of day, day of week, and season** shape the city's noise landscape — and how young-adult neighborhoods drive the patterns.
@@ -69,6 +84,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 
 ```
 ├── README.md
+├── projects/un-membership-analytics/ # UN membership and engagement case
 ├── laguardia.html                    # Applied research — The First-Gen Cliff (NEH)
 ├── finalprojectpresent.qmd / .html   # Final project — NYC Noise
 ├── mp03.qmd / mp03.html              # Mini-project — Ultimate Playlist
@@ -84,7 +100,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 
 ## 🛠️ Tools & skills
 
-- **Analytics:** R, ggplot2, exploratory data analysis, turning data into a business narrative
+- **Analytics:** R, Python, SQL, ggplot2, segmentation, funnel analysis, exploratory data analysis
 - **Reporting:** Quarto — literate programming (code + narrative + output in one document)
 - **Communication:** translating analysis into clear visuals and recommendations for non-technical stakeholders
 - **Workflow:** Git version control, reproducible rendering, GitHub Pages publishing
