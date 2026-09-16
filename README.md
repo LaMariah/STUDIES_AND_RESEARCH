@@ -1,4 +1,4 @@
-# Studies & Research — Applied Business Analytics
+# Studies & Projects — Applied Business Analytics
 
 A portfolio of analytics and research projects from my **M.S. in Business Analytics** at the Zicklin School of Business, Baruch College (CUNY), and my applied research work, by **Gerusa Maso** ([@LaMariah](https://github.com/LaMariah)).
 
