@@ -2,7 +2,7 @@
 
 A portfolio of analytics and research projects from my **M.S. in Business Analytics** at the Zicklin School of Business, Baruch College (CUNY), and my applied research work, by **Gerusa Maso** ([@LaMariah](https://github.com/LaMariah)).
 
-I'm a senior PR & events professional pivoting into **business analysis** — pairing a decade of brand, stakeholder, and campaign experience with the analytical toolkit to turn data into decisions. These projects use **R**, **Quarto**, and **ggplot2** to take public datasets from raw data to a clear, communicated business narrative.
+I'm a senior PR & events professional pivoting into **business analysis** — pairing a decade of brand, stakeholder, and campaign experience with the analytical toolkit to turn data into decisions. These projects use **R**, **Python**, **SQL**, **Quarto**, and data visualization to take datasets from raw evidence to a clear business narrative.
 
 🔗 **Live site:** https://lamariah.github.io/STUDIES_AND_RESEARCH/
 
@@ -35,6 +35,21 @@ A privacy-safe portfolio case showing how membership segmentation, a reactivatio
 
 **Built with:** Python · SQL · CSV · dashboard design · lifecycle segmentation
 📄 **Explore the project:** [projects/un-membership-analytics](projects/un-membership-analytics)
+
+---
+
+## ⭐ Commercial analytics, Pitu Cachaça US Market Expansion
+
+A reconstructed market-entry case showing how product education, consumer engagement, retail activation, and distributor development supported a Brazilian beverage brand in New York and New Jersey.
+
+**Key findings**
+- Active distributor accounts increased from **3 to 11** in the reconstructed campaign record
+- Education-led content produced a **3.43× engagement ratio** compared with brand-led content
+- Retail availability grew from about **5 to 30 locations**
+- The portfolio ROI scenario estimates a **58.3% three-year return**
+
+**Built with:** Python · SQL · campaign analytics · audience segmentation · ROI modelling
+📄 **Explore the project:** [projects/pitu-market-expansion-analytics](projects/pitu-market-expansion-analytics)
 
 ---
 
@@ -84,7 +99,8 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 
 ```
 ├── README.md
-├── projects/un-membership-analytics/ # UN membership and engagement case
+├── projects/un-membership-analytics/       # UN membership and engagement case
+├── projects/pitu-market-expansion-analytics/ # Commercial market-entry case
 ├── laguardia.html                    # Applied research — The First-Gen Cliff (NEH)
 ├── finalprojectpresent.qmd / .html   # Final project — NYC Noise
 ├── mp03.qmd / mp03.html              # Mini-project — Ultimate Playlist
