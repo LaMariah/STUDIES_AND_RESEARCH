@@ -76,9 +76,11 @@ A privacy-safe automation prototype that turns structured activity logs into a c
 - Converts a CSV activity log into a stakeholder-ready weekly report
 - Validates required fields and stops duplicate records
 - Flags entries that require human review
-- Includes automated tests, a deployment guide, and a workflow diagram
+- Explains the case through a business overview, workflow diagram, and proposed ERD
+- Includes automated tests, a deployment guide, validation controls, and human approval
 
-**Built with:** Python · CSV · workflow design · data validation · automated testing · human-in-the-loop controls  
+**Built with:** Python · CSV · workflow design · relational data modeling · data validation · automated testing · human-in-the-loop controls
+
 📄 **Explore the project:** [projects/weekly-report-automation](projects/weekly-report-automation)
 
 ---
