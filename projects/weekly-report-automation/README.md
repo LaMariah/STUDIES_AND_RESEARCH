@@ -8,7 +8,80 @@ The workflow turns structured activity logs into a concise weekly report. It red
 
 The implementation uses synthetic records and a local CSV export. It contains no credentials, email addresses, internal messages, or confidential work records.
 
+## Case study at a glance
+
+![Case study overview showing the business problem, analysis, proposed solution, and expected value](assets/case-study-overview.svg)
+
+The case follows a business-analysis sequence: identify the reporting problem, map requirements and controls, build a privacy-safe prototype, and define the measures needed for a future deployment. Expected value is presented as a design objective because the public prototype does not claim measured production results.
+
+## Proposed workflow
+
 ![Weekly report workflow](assets/weekly-report-workflow.svg)
+
+## Proposed data model
+
+The public prototype reads a CSV export. The following ERD presents the normalized logical model proposed for a database-backed version. It is a design artifact, not a claim that these tables are deployed in production.
+
+```mermaid
+erDiagram
+    ACTIVITY_RECORD ||--o{ REPORT_RUN_ACTIVITY : "included in"
+    REPORT_RUN ||--o{ REPORT_RUN_ACTIVITY : contains
+    ACTIVITY_RECORD ||--o{ VALIDATION_ISSUE : "may create"
+    REPORT_RUN ||--o{ VALIDATION_ISSUE : records
+    REPORT_RUN ||--o{ REVIEW_DECISION : requires
+
+    ACTIVITY_RECORD {
+        string activity_id PK
+        date activity_date
+        string reporting_period
+        text work_summary
+        decimal hours_spent
+        text improvement_summary
+        text opportunity_summary
+        text outcome_summary
+        string status
+        string data_status
+        datetime created_at
+    }
+
+    REPORT_RUN {
+        string run_id PK
+        date reference_date
+        date window_start
+        date window_end
+        int record_count
+        decimal total_hours
+        string run_status
+        datetime generated_at
+    }
+
+    REPORT_RUN_ACTIVITY {
+        string run_id PK, FK
+        string activity_id PK, FK
+        datetime included_at
+    }
+
+    VALIDATION_ISSUE {
+        string issue_id PK
+        string run_id FK
+        string activity_id FK
+        string issue_type
+        string severity
+        text issue_message
+        string resolution_status
+    }
+
+    REVIEW_DECISION {
+        string review_id PK
+        string run_id FK
+        string reviewer_role
+        string decision
+        datetime reviewed_at
+        text review_notes
+    }
+```
+
+The model separates operational records, automation runs, validation findings, and human approval. This supports traceability, duplicate prevention, controlled review, and future reporting without storing personal data in the public example. See [Proposed data model](docs/proposed-data-model.md) for the design rationale and field rules.
 
 ## Business problem
 
@@ -99,11 +172,13 @@ This prototype does not claim measured time savings. A deployed workflow should 
 ```text
 .
 ├── assets/
+│   ├── case-study-overview.svg
 │   └── weekly-report-workflow.svg
 ├── data/
 │   └── sample_weekly_log.csv
 ├── docs/
 │   ├── deployment-guide.md
+│   ├── proposed-data-model.md
 │   └── workflow-specification.md
 ├── src/
 │   └── build_weekly_report.py
@@ -118,6 +193,7 @@ This prototype does not claim measured time savings. A deployed workflow should 
 - Workflow analysis
 - Requirements gathering
 - Process mapping
+- Relational data modeling
 - Python automation
 - Data validation
 - Exception handling
