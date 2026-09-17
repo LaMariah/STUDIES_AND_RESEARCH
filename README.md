@@ -173,8 +173,8 @@ This renders the `.qmd` files into `docs/`, which GitHub Pages serves as the liv
 
 ## 👤 About
 
-**Gerusa Maso** — senior PR & events professional with 10+ years producing premium large-scale events and leading brand communications across Brazil, the U.S., and Europe (Formula 1 Brazilian GP, Lollapalooza, FIFA World Cup, Rio 2016, Brazilian Day Newark). Founder of the communications agency Emperialle, where campaigns grew brand engagement 25% and revenue 30%. 2019 *Community Builder of the Year* (The Garra Award × NY Women's Foundation).
+**Gerusa Souza** — With over 10 years of experience in event production, communications strategy, operations management, and data analytics, I have spearheaded the production of high-profile events, optimized client onboarding processes, and conducted data-driven research. Skilled in CRM design, stakeholder coordination, and strategic analysis, I have boosted revenue growth and improved client retention. Founder of the communications agency Emperialle, where campaigns grew brand engagement 25% and revenue 30%. 2019 *Community Builder of the Year* (The Garra Award × NY Women's Foundation).
 
 Graduating with an **M.S. in Business Analytics** (Zicklin School of Business, Baruch College, 2026) and pivoting into **business analysis** — bringing stakeholder fluency and campaign-impact thinking together with data.
 
-📍 New York · [LinkedIn](https://www.linkedin.com/in/gms123456/)
+📍 Brussels · [LinkedIn](https://www.linkedin.com/in/gms123456/)
