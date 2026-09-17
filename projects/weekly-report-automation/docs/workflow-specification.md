@@ -2,9 +2,9 @@
 
 ## Name and goal
 
-Nonprofit Weekly Activity Report Automation
+Weekly Activity Report Automation Prototype
 
-Goal: transform structured internship activity records into a consistent, review-ready weekly report.
+Goal: transform structured activity records into a consistent, review-ready weekly report.
 
 ## Owner and users
 
@@ -29,7 +29,7 @@ Required fields:
 - Hours Spent
 - Improvements Made
 - Ideas and Opportunities
-- Possible Outcomes for Nonprofit
+- Possible Outcomes
 - Status
 
 Updates from unsupported channels must be logged manually before the scheduled run.
