@@ -2,11 +2,11 @@
 
 ## One sentence
 
-I designed a weekly reporting workflow that converts structured internship logs into a review-ready management update while keeping human approval before external delivery.
+I designed a weekly reporting workflow that converts structured activity logs into a review-ready management update while keeping human approval before external delivery.
 
 ## Interview version
 
-Nonprofit's internship updates arrived through several communication channels and ongoing work notes. I created a structured activity log and a scheduled reporting process that organizes completed work, hours, improvements, opportunities, and expected outcomes. The workflow sends the draft to an owner for human review before external delivery. The public GitHub version demonstrates the report-building logic with synthetic data and excludes production credentials.
+Operational updates often arrive through several communication channels and ongoing work notes. This prototype uses a structured activity log and a scheduled reporting process to organize completed work, hours, improvements, opportunities, and expected outcomes. The workflow sends the draft to an owner for human review before external delivery. The GitHub version demonstrates the report-building logic with synthetic data and excludes production credentials.
 
 ## Skills to mention
 
@@ -20,4 +20,4 @@ Nonprofit's internship updates arrived through several communication channels an
 
 ## Portfolio disclaimer
 
-The sample data is synthetic. No Nonprofit communications, credentials, addresses, schedules, recipient names, or confidential work records appear in the repository.
+The sample data is synthetic. No real communications, credentials, addresses, schedules, recipient names, or confidential work records appear in the repository.
