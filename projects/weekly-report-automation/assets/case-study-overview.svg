@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Weekly reporting automation case study overview</title>
+  <desc id="desc">The case moves from fragmented manual updates to a structured activity log, automated validation and report creation, human approval, and measurable reporting controls.</desc>
+  <style>
+    .bg{fill:#f4f6f7}.panel{fill:#fff;stroke:#dfe5e8;stroke-width:2}.navy{fill:#173a5e}.green{fill:#26856b}.gold{fill:#c38b2c}.red{fill:#bd5360}.ink{fill:#1f2b36}.muted{fill:#667583}.white{fill:#fff}.title{font:700 28px Arial,sans-serif}.heading{font:700 18px Arial,sans-serif}.body{font:14px Arial,sans-serif}.small{font:12px Arial,sans-serif}.arrow{stroke:#8b98a4;stroke-width:3;fill:none;marker-end:url(#head)}
+  </style>
+  <defs>
+    <marker id="head" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#8b98a4"/></marker>
+  </defs>
+  <rect class="bg" width="1200" height="650"/>
+  <rect class="navy" x="35" y="28" width="1130" height="76" rx="5"/>
+  <text class="title white" x="58" y="65">Case Study: From Manual Updates to Controlled Reporting</text>
+  <text class="body white" x="58" y="88">Privacy-safe prototype using synthetic operational records</text>
+
+  <g transform="translate(50 150)">
+    <rect class="panel" width="240" height="260" rx="8"/>
+    <rect class="red" width="240" height="48" rx="8"/>
+    <rect class="red" y="40" width="240" height="8"/>
+    <text class="heading white" x="20" y="31">1. Business problem</text>
+    <text class="body ink" x="20" y="88">Updates arrive in several places</text>
+    <text class="body ink" x="20" y="117">Manual compilation takes time</text>
+    <text class="body ink" x="20" y="146">Missing fields create rework</text>
+    <text class="body ink" x="20" y="175">Duplicate entries affect totals</text>
+    <text class="body ink" x="20" y="204">Sensitive content needs review</text>
+  </g>
+  <path class="arrow" d="M300 280 H335"/>
+
+  <g transform="translate(345 150)">
+    <rect class="panel" width="240" height="260" rx="8"/>
+    <rect class="gold" width="240" height="48" rx="8"/>
+    <rect class="gold" y="40" width="240" height="8"/>
+    <text class="heading white" x="20" y="31">2. Analysis</text>
+    <text class="body ink" x="20" y="88">Map the reporting process</text>
+    <text class="body ink" x="20" y="117">Define required fields</text>
+    <text class="body ink" x="20" y="146">Set a unique activity ID</text>
+    <text class="body ink" x="20" y="175">Document failure responses</text>
+    <text class="body ink" x="20" y="204">Keep a human approval gate</text>
+  </g>
+  <path class="arrow" d="M595 280 H630"/>
+
+  <g transform="translate(640 150)">
+    <rect class="panel" width="240" height="260" rx="8"/>
+    <rect class="green" width="240" height="48" rx="8"/>
+    <rect class="green" y="40" width="240" height="8"/>
+    <text class="heading white" x="20" y="31">3. Proposed solution</text>
+    <text class="body ink" x="20" y="88">Structured activity records</text>
+    <text class="body ink" x="20" y="117">Automated validation</text>
+    <text class="body ink" x="20" y="146">Reporting-window selection</text>
+    <text class="body ink" x="20" y="175">Review-ready report draft</text>
+    <text class="body ink" x="20" y="204">Approval before delivery</text>
+  </g>
+  <path class="arrow" d="M890 280 H925"/>
+
+  <g transform="translate(935 150)">
+    <rect class="panel" width="215" height="260" rx="8"/>
+    <rect class="navy" width="215" height="48" rx="8"/>
+    <rect class="navy" y="40" width="215" height="8"/>
+    <text class="heading white" x="20" y="31">4. Expected value</text>
+    <text class="body ink" x="20" y="88">Consistent reports</text>
+    <text class="body ink" x="20" y="117">Fewer duplicate records</text>
+    <text class="body ink" x="20" y="146">Visible validation issues</text>
+    <text class="body ink" x="20" y="175">Traceable report runs</text>
+    <text class="body ink" x="20" y="204">Controlled information sharing</text>
+  </g>
+
+  <rect class="panel" x="170" y="470" width="860" height="120" rx="8"/>
+  <text class="heading ink" x="200" y="505">Portfolio evidence</text>
+  <text class="body muted" x="200" y="535">Process map  •  Python automation  •  Automated tests  •  Proposed ERD  •  Validation rules  •  Human review</text>
+  <text class="small red" x="200" y="566">The repository uses synthetic data and reports no measured production outcomes.</text>
+</svg>
