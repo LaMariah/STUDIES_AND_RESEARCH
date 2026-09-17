@@ -1,24 +1,24 @@
-# Nonprofit Weekly Activity Report Automation
+# Weekly Activity Report Automation Prototype
 
 ## Executive summary
 
-This portfolio case study documents a weekly reporting automation designed during my data analytics internship with Nonprofit, a Brazilian public-policy organization.
+This portfolio case study demonstrates a reusable weekly reporting automation for teams that track operational activities.
 
 The workflow turns structured activity logs into a concise weekly report. It reduces manual compilation while preserving a human approval step before external delivery.
 
-The public implementation uses synthetic records and a local CSV export. It contains no Nonprofit credentials, email addresses, internal messages, or confidential work records.
+The implementation uses synthetic records and a local CSV export. It contains no credentials, email addresses, internal messages, or confidential work records.
 
-![Nonprofit weekly report workflow](assets/weekly-report-workflow.svg)
+![Weekly report workflow](assets/weekly-report-workflow.svg)
 
 ## Business problem
 
-Internship updates arrived through several communication channels. Preparing a weekly summary required reviewing updates, organizing completed work, recording hours, identifying improvements, and describing possible outcomes.
+Operational updates can arrive through several communication channels. Preparing a weekly summary requires reviewing updates, organizing completed work, recording hours, identifying improvements, and describing possible outcomes.
 
 The reporting process needed one reliable source of truth and a consistent review cycle.
 
 ## Documented workflow
 
-The private project documentation defines this process:
+The prototype defines this process:
 
 1. Work is recorded in a structured weekly log.
 2. Updates from unsupported channels are added manually.
@@ -35,10 +35,10 @@ The approval step prevents incomplete, inaccurate, or sensitive information from
 | Week | Human-readable reporting period |
 | Week Of | Date used for filtering and scheduling |
 | Work Done | Completed activities |
-| Hours Spent | Time recorded for the internship |
+| Hours Spent | Time recorded for each activity |
 | Improvements Made | Process or quality improvements |
 | Ideas and Opportunities | Future automation or analysis ideas |
-| Possible Outcomes for Nonprofit | Expected organizational value |
+| Possible Outcomes | Expected organizational value |
 | Status | Logged, Needs Review, or Approved |
 
 ## Public reference implementation
@@ -85,7 +85,7 @@ python src/build_weekly_report.py \
 
 ## Success measures
 
-The project documentation does not contain a completed baseline or measured time savings. Future evaluation should track:
+This prototype does not claim measured time savings. A deployed workflow should track:
 
 - Minutes required to prepare the weekly report
 - Percentage of weekly activities logged before the reporting deadline
@@ -127,10 +127,9 @@ The project documentation does not contain a completed baseline or measured time
 
 ## Data ethics
 
-The repository contains only synthetic activity records. It excludes Nonprofit messages, employee information, credentials, addresses, schedules, recipient names, and internal work details. The internal workspace remains the private source of truth.
+The repository contains only synthetic activity records. It excludes real messages, employee information, credentials, addresses, schedules, recipient names, and internal work details.
 
 ## Author
 
 Portfolio Author  
-Data Analytics Intern and Business Process Consultant  
-Location withheld
+Business Analytics and Process Automation Portfolio
