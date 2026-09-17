@@ -1,4 +1,4 @@
-"""Build a review-ready Nonprofit weekly report from a CSV export."""
+"""Build a review-ready weekly activity report from a CSV export."""
 
 from __future__ import annotations
 
@@ -90,7 +90,7 @@ def build_report(activities: list[Activity], reference_date: date) -> str:
     needs_review = [activity for activity in activities if activity.status == "Needs Review"]
 
     lines = [
-        "# Nonprofit weekly activity report",
+        "# Weekly activity report",
         "",
         f"Reporting date: {reference_date.isoformat()}",
         f"Run ID: `{run_id}`",
