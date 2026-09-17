@@ -68,6 +68,21 @@ A privacy-conscious case showing how nonprofit storytelling, proposal developmen
 
 ---
 
+## ⭐ Workflow automation, Weekly Reporting Prototype
+
+A privacy-safe automation prototype that turns structured activity logs into a consistent weekly Markdown report. It demonstrates validation, duplicate prevention, reporting-window logic, review controls, and clear documentation using synthetic data only.
+
+**Project highlights**
+- Converts a CSV activity log into a stakeholder-ready weekly report
+- Validates required fields and stops duplicate records
+- Flags entries that require human review
+- Includes automated tests, a deployment guide, and a workflow diagram
+
+**Built with:** Python · CSV · workflow design · data validation · automated testing · human-in-the-loop controls  
+📄 **Explore the project:** [projects/weekly-report-automation](projects/weekly-report-automation)
+
+---
+
 ## ⭐ Final project — NYC Noise Complaints: Temporal Patterns
 
 An analysis of NYC 311 noise-complaint data (2022–2025) examining how **time of day, day of week, and season** shape the city's noise landscape — and how young-adult neighborhoods drive the patterns.
@@ -117,6 +132,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 ├── projects/un-membership-analytics/       # UN membership and engagement case
 ├── projects/pitu-market-expansion-analytics/ # Commercial market-entry case
 ├── projects/sos-eb-kids-fundraising-analytics/ # Nonprofit fundraising case
+├── projects/weekly-report-automation/          # Privacy-safe automation prototype
 ├── laguardia.html                    # Applied research — The First-Gen Cliff (NEH)
 ├── finalprojectpresent.qmd / .html   # Final project — NYC Noise
 ├── mp03.qmd / mp03.html              # Mini-project — Ultimate Playlist
@@ -136,7 +152,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 - **Reporting:** Quarto — literate programming (code + narrative + output in one document)
 - **Communication:** translating analysis into clear visuals and recommendations for non-technical stakeholders
 - **Nonprofit:** digital fundraising, donor journey mapping, grant pipeline design, privacy-conscious reporting
-- **Workflow:** Git version control, reproducible rendering, GitHub Pages publishing
+- **Workflow:** Python automation, input validation, automated testing, human review controls, Git version control, reproducible rendering, GitHub Pages publishing
 - **Data:** public/open datasets (NYC Open Data, Spotify, Million Playlist Dataset)
 - **Languages:** English, Portuguese, Spanish, Italian
 
