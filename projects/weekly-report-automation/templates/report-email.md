@@ -1,4 +1,4 @@
-# Weekly Nonprofit activity report
+# Weekly activity report
 
 Reporting period: {{ reporting_period }}
 
@@ -20,7 +20,7 @@ Reporting period: {{ reporting_period }}
 
 {{ opportunities }}
 
-## Possible outcomes for Nonprofit
+## Possible outcomes
 
 {{ outcomes }}
 
