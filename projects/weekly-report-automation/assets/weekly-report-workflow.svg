@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
-  <title id="title">Nonprofit weekly reporting automation</title>
+  <title id="title">Weekly activity reporting automation prototype</title>
   <desc id="desc">A workflow from manual updates and a structured activity log through validation, report generation, owner review, and approved external delivery.</desc>
   <style>.bg{fill:#f4f6f7}.card{fill:#fff;stroke:#dfe5e8;stroke-width:2}.navy{fill:#173a5e}.green{fill:#26856b}.gold{fill:#c38b2c}.red{fill:#bd5360}.ink{fill:#1f2b36}.muted{fill:#667583}.white{fill:#fff}.h1{font:700 28px Arial,sans-serif}.h2{font:700 17px Arial,sans-serif}.body{font:14px Arial,sans-serif}.small{font:12px Arial,sans-serif}.arrow{stroke:#8b98a4;stroke-width:3;fill:none;marker-end:url(#head)}</style>
   <defs><marker id="head" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#8b98a4"/></marker></defs>
   <rect class="bg" width="1200" height="500"/><rect class="navy" x="35" y="28" width="1130" height="76" rx="5"/>
-  <text class="h1 white" x="58" y="65">Nonprofit Weekly Activity Report Automation</text><text class="body white" x="58" y="88">Recurring weekly run | Human review before external delivery</text>
+  <text class="h1 white" x="58" y="65">Weekly Activity Report Automation Prototype</text><text class="body white" x="58" y="88">Recurring weekly run | Human review before external delivery</text>
   <g transform="translate(45 150)"><rect class="card" width="190" height="150" rx="8"/><circle class="gold" cx="35" cy="36" r="19"/><text class="h2 ink" x="25" y="42">1</text><text class="h2 ink" x="62" y="42">Capture</text><text class="body muted" x="22" y="78">Structured activity log</text><text class="body muted" x="22" y="102">Manual channel entry</text><text class="body muted" x="22" y="126">Project work notes</text></g>
   <path class="arrow" d="M245 225 H280"/>
   <g transform="translate(290 150)"><rect class="card" width="190" height="150" rx="8"/><circle class="green" cx="35" cy="36" r="19"/><text class="h2 white" x="25" y="42">2</text><text class="h2 ink" x="62" y="42">Validate</text><text class="body muted" x="22" y="78">Required fields</text><text class="body muted" x="22" y="102">Dates and hours</text><text class="body muted" x="22" y="126">Duplicate IDs</text></g>

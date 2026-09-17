@@ -1,4 +1,4 @@
-"""Tests for the Nonprofit weekly report builder."""
+"""Tests for the weekly activity report builder."""
 
 from __future__ import annotations
 
