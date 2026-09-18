@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">UN Latin America data storytelling project evidence dashboard</title>
+  <desc id="desc">A portfolio summary showing the documented 120-hour scope, six workstreams, five research themes, five publishing platforms, Tableau outputs, and measurement approach.</desc>
+  <style>
+    .bg{fill:#f4f7f8}.panel{fill:#fff;stroke:#d9e2e7;stroke-width:2}.navy{fill:#173a5e}.blue{fill:#3d73a8}.teal{fill:#26856b}.gold{fill:#c38b2c}.rose{fill:#b84f68}.ink{fill:#1f2b36}.muted{fill:#667583}.white{fill:#fff}.title{font:700 28px Arial,sans-serif}.kpi{font:700 30px Arial,sans-serif}.heading{font:700 18px Arial,sans-serif}.body{font:14px Arial,sans-serif}.small{font:12px Arial,sans-serif}
+  </style>
+  <rect class="bg" width="1200" height="720"/>
+  <rect class="navy" x="35" y="28" width="1130" height="78" rx="6"/>
+  <text class="title white" x="58" y="65">UN Latin America Data Storytelling Portfolio</text>
+  <text class="body white" x="58" y="89">Research, Tableau visualization, content strategy, and measurement | 2024</text>
+
+  <g transform="translate(50 135)"><rect class="panel" width="245" height="112" rx="8"/><text class="kpi navy" x="22" y="48">120</text><text class="heading ink" x="92" y="46">stated hours</text><text class="small muted" x="22" y="80">Official program scope</text><text class="small rose" x="22" y="99">Detailed plan totals 110 hours</text></g>
+  <g transform="translate(335 135)"><rect class="panel" width="245" height="112" rx="8"/><text class="kpi teal" x="22" y="48">6</text><text class="heading ink" x="60" y="46">workstreams</text><text class="small muted" x="22" y="80">Research through evaluation</text></g>
+  <g transform="translate(620 135)"><rect class="panel" width="245" height="112" rx="8"/><text class="kpi gold" x="22" y="48">5</text><text class="heading ink" x="60" y="46">research themes</text><text class="small muted" x="22" y="80">SDGs, economy, health, environment, culture</text></g>
+  <g transform="translate(905 135)"><rect class="panel" width="245" height="112" rx="8"/><text class="kpi blue" x="22" y="48">5</text><text class="heading ink" x="60" y="46">platforms</text><text class="small muted" x="22" y="80">Instagram, Facebook, X, LinkedIn, YouTube</text></g>
+
+  <g transform="translate(50 280)">
+    <rect class="panel" width="535" height="310" rx="8"/>
+    <text class="heading ink" x="24" y="38">Verified portfolio evidence</text>
+    <circle class="teal" cx="30" cy="78" r="6"/><text class="body ink" x="48" y="83">Original Tableau exports across multiple chart types</text>
+    <circle class="teal" cx="30" cy="116" r="6"/><text class="body ink" x="48" y="121">SDG dashboard work covering SDGs 4, 5, 10, and 13</text>
+    <circle class="teal" cx="30" cy="154" r="6"/><text class="body ink" x="48" y="159">UN and UNESCO research on endangered Indigenous languages</text>
+    <circle class="teal" cx="30" cy="192" r="6"/><text class="body ink" x="48" y="197">Language, education, tourism, and social-interest analysis</text>
+    <circle class="teal" cx="30" cy="230" r="6"/><text class="body ink" x="48" y="235">Data-informed content calendar and infographic concepts</text>
+    <circle class="teal" cx="30" cy="268" r="6"/><text class="body ink" x="48" y="273">Weekly review of reach, saves, shares, and comments</text>
+  </g>
+
+  <g transform="translate(620 280)">
+    <rect class="panel" width="530" height="310" rx="8"/>
+    <text class="heading ink" x="24" y="38">Analysis-to-action model</text>
+    <rect class="blue" x="24" y="65" width="120" height="44" rx="5"/><text class="body white" x="47" y="92">Research</text>
+    <rect class="teal" x="204" y="65" width="120" height="44" rx="5"/><text class="body white" x="228" y="92">Analyze</text>
+    <rect class="gold" x="384" y="65" width="120" height="44" rx="5"/><text class="body white" x="405" y="92">Visualize</text>
+    <text class="heading muted" x="163" y="94">›</text><text class="heading muted" x="343" y="94">›</text>
+    <rect class="rose" x="114" y="148" width="130" height="44" rx="5"/><text class="body white" x="139" y="175">Tell the story</text>
+    <rect class="navy" x="294" y="148" width="130" height="44" rx="5"/><text class="body white" x="315" y="175">Plan content</text>
+    <text class="heading muted" x="263" y="177">›</text>
+    <text class="body muted" x="24" y="232">Decision loop</text>
+    <text class="body ink" x="24" y="260">Measure response → interpret signals → refine the next topic</text>
+    <text class="small muted" x="24" y="289">Outcome percentages excluded unless supported by separate evidence.</text>
+  </g>
+
+  <rect class="navy" x="50" y="622" width="1100" height="58" rx="6"/>
+  <text class="body white" x="75" y="657">Portfolio reconstruction from project scope and original Tableau exports. No confidential records or institutional outcome claims.</text>
+</svg>

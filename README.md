@@ -23,15 +23,31 @@ A mixed-methods study quantifying why first-generation students leave college �
 
 ---
 
-## ⭐ Applied analytics, UN Latin Club Membership and Engagement
+## ⭐ UN Latin America Data Storytelling and Content Strategy
 
-A privacy-safe portfolio case showing how membership segmentation, a reactivation funnel, and weekly content reporting supported retention and programming decisions.
+A scope-backed portfolio case documenting my 2024 research, Tableau visualization, SDG dashboard, data storytelling, content planning, and engagement-monitoring work for a UN-affiliated Latin community program.
 
-**Key findings**
-- Lapsed members represented **47%** of the reconstructed membership base
-- **47 of 235** lapsed members renewed, a **20% reactivation rate**
-- Digital engagement increased **15% over seven weeks**
-- Endangered-languages research became the highest-performing content theme
+**Project highlights**
+- Presents eight original Tableau exports covering languages, education, tourism, geography, destinations, and social-media interest
+- Documents SDG dashboard work covering SDGs 4, 5, 10, and 13
+- Connects UN and UNESCO research with visual storytelling and content planning
+- Includes a reproducible audit that flags a 10-hour inconsistency in the source project plan
+
+**Built with:** Tableau · public-source research · data storytelling · content strategy · KPI design · Python validation
+
+📄 **Explore the project:** [projects/un-data-storytelling-content-strategy](projects/un-data-storytelling-content-strategy)
+
+---
+
+## ⭐ Reconstructed analytics case, UN Latin Club Membership and Engagement
+
+A privacy-safe reconstruction showing how membership segmentation, a reactivation funnel, and weekly content reporting could support retention and programming decisions. Its sample records and metrics are illustrative rather than verified institutional results.
+
+**Illustrative analysis**
+- Demonstrates lifecycle segmentation and funnel design
+- Shows denominator-aware metric definitions
+- Uses synthetic and aggregated examples
+- Separates portfolio modeling from documented project outcomes
 
 **Built with:** Python · SQL · CSV · dashboard design · lifecycle segmentation
 📄 **Explore the project:** [projects/un-membership-analytics](projects/un-membership-analytics)
@@ -131,6 +147,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 
 ```
 ├── README.md
+├── projects/un-data-storytelling-content-strategy/ # Scope-backed UN data storytelling case
 ├── projects/un-membership-analytics/       # UN membership and engagement case
 ├── projects/pitu-market-expansion-analytics/ # Commercial market-entry case
 ├── projects/sos-eb-kids-fundraising-analytics/ # Nonprofit fundraising case
