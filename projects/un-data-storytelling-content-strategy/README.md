@@ -150,6 +150,6 @@ More detail appears in [Evidence and limitations](docs/evidence-and-limitations.
 
 ## Author
 
-Gerusa Maso  
-Business Analytics and Communications Professional  
+Gerusa Souza<br>
+Business Analytics and Communications Professional<br>
 Brussels, Belgium

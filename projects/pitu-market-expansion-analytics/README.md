@@ -125,6 +125,6 @@ This repository contains no confidential client records, personal data, contract
 
 ## Author
 
-Gerusa Maso  
-Business Analytics and Communications Professional  
+Gerusa Souza<br>
+Business Analytics and Communications Professional<br>
 Brussels, Belgium

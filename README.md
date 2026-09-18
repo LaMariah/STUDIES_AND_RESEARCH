@@ -1,10 +1,10 @@
 # Studies & Projects — Applied Business Analytics
 
-A portfolio of analytics and research projects from my **M.S. in Business Analytics** at the Zicklin School of Business, Baruch College (CUNY), and my applied research work, by **Gerusa Maso** ([@LaMariah](https://github.com/LaMariah)).
+A portfolio of analytics and research projects from my **M.S. in Business Analytics** at the Zicklin School of Business, Baruch College (CUNY), and my applied research work, by **Gerusa Souza** ([@LaMariah](https://github.com/LaMariah)).
 
 I'm a senior PR & events professional pivoting into **business analysis** — pairing a decade of brand, stakeholder, and campaign experience with the analytical toolkit to turn data into decisions. These projects use **R**, **Python**, **SQL**, **Quarto**, and data visualization to take datasets from raw evidence to a clear business narrative.
 
-🔗 **Live site:** https://lamariah.github.io/STUDIES_AND_RESEARCH/
+🔗 **Portfolio site:** https://lamariah.github.io/STUDIES_AND_RESEARCH/
 
 ---
 
@@ -147,6 +147,7 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 
 ```
 ├── README.md
+├── index.html / portfolio.css        # Public portfolio homepage
 ├── projects/un-data-storytelling-content-strategy/ # Scope-backed UN data storytelling case
 ├── projects/un-membership-analytics/       # UN membership and engagement case
 ├── projects/pitu-market-expansion-analytics/ # Commercial market-entry case
@@ -177,14 +178,9 @@ A county-level analysis of how U.S. presidential voting shifted between 2020 and
 
 ---
 
-## ⚙️ Reproduce the site
+## ⚙️ Portfolio site
 
-```bash
-# Requires R and Quarto
-Rscript build_site.R
-```
-
-This renders the `.qmd` files into `docs/`, which GitHub Pages serves as the live site.
+The public homepage is a responsive static site built with `index.html` and `portfolio.css`. It links the complete project collection, GitHub case studies, and rendered analytical reports from one recruiter-friendly page. The R and Quarto source files remain beside their rendered reports for reproducibility.
 
 ---
 

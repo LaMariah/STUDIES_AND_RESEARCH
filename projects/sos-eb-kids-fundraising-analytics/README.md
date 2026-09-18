@@ -34,8 +34,8 @@ How should a small nonprofit connect awareness, trust, donor interest, and fundi
 | --- | --- | --- |
 | SOS EB Kids supports Brazilian children with EB | Publicly documented | Linked to official website |
 | BrazilFoundation fundraising activity benefited SOS EB Kids | Publicly documented | Linked to BrazilFoundation page |
-| BrazilFoundation funding was secured with my contribution | Professional experience reported by Gerusa Maso | No amount disclosed |
-| Donor journey and proposal work | Professional experience reported by Gerusa Maso | Process documented without confidential files |
+| BrazilFoundation funding was secured with my contribution | Professional experience reported by Gerusa Souza | No amount disclosed |
+| Donor journey and proposal work | Professional experience reported by Gerusa Souza | Process documented without confidential files |
 | Funnel counts and conversion rates | No verified raw dataset available | Illustrative data only |
 
 ## Fundraising system
@@ -145,6 +145,6 @@ The repository contains no donor identities, beneficiary medical information, gr
 
 ## Author
 
-Gerusa Maso  
-Business Analytics and Communications Professional  
+Gerusa Souza<br>
+Business Analytics and Communications Professional<br>
 Brussels, Belgium

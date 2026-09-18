@@ -124,6 +124,6 @@ No personal information or internal UN records appear in this repository. The da
 
 ## Author
 
-Gerusa Maso  
-Business Analytics and Communications Professional  
+Gerusa Souza<br>
+Business Analytics and Communications Professional<br>
 Brussels, Belgium
