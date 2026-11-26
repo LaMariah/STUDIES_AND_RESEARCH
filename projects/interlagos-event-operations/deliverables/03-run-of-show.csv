@@ -1,0 +1,8 @@
+sequence,phase,activity,owner,dependency,acceptance_check,time
+1,Prepare,Confirm supplier access,Coordinator and venue interface,Access instructions agreed,Suppliers acknowledge instructions,Set per event
+2,Prepare,Complete assigned area setup,Supplier lead,Supplier access confirmed,Setup exceptions recorded,Set per event
+3,Readiness,Brief team leads,Coordinator,Staff allocations available,Responsibilities and escalation route reviewed,Set per event
+4,Readiness,Walk guest route,Hospitality lead,Area setup ready,Arrival welcome and service points checked,Set per event
+5,Readiness,Record opening decision,Designated approver,Readiness review complete,Decision recorded,Set per event
+6,Live,Coordinate guest service,Hospitality lead,Opening authorised,Issues assigned to named owners,Set per event
+7,Close,Coordinate supplier handback,Coordinator and suppliers,Guest departure confirmed,Area handback recorded,Set per event
