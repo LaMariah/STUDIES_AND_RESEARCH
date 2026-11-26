@@ -1,4 +1,4 @@
-# Idealist.org: immigrant entrepreneur workshops
+# Idealist.org: Latino entrepreneur workshops
 
 [Read the visual case study](https://lamariah.github.io/STUDIES_AND_RESEARCH/projects/idealist-hybrid-workshops/)
 
