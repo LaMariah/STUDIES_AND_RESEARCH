@@ -1,0 +1,8 @@
+sequence,phase,activity,proposed_owner,dependency,acceptance_check,time,evidence_status
+1,Prepare,Confirm supplier access,Coordinator and venue interface,Access instructions agreed,Suppliers acknowledge instructions,To confirm,Demonstration template
+2,Prepare,Complete assigned area setup,Supplier lead,Supplier access confirmed,Setup exceptions recorded,To confirm,Demonstration template
+3,Readiness,Brief team leads,Coordinator,Staff allocations available,Responsibilities and escalation route reviewed,To confirm,Demonstration template
+4,Readiness,Walk guest route,Hospitality lead,Area setup ready,Arrival welcome and service points checked,To confirm,Demonstration template
+5,Readiness,Record opening decision,Designated approver,Readiness review complete,Decision recorded,To confirm,Demonstration template
+6,Live,Coordinate guest service,Hospitality lead,Opening authorised,Issues assigned to named owners,To confirm,Demonstration template
+7,Close,Coordinate supplier handback,Coordinator and suppliers,Guest departure confirmed,Area handback recorded,To confirm,Demonstration template
