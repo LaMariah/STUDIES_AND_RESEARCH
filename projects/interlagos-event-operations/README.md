@@ -30,7 +30,7 @@ I connected the furniture allocation decision with the operational requirements 
 
 ### The result
 
-Furniture reuse saved money and time at the venue and helped me support both accounts under the budget and production constraints. Savings are described qualitatively because no amounts or time totals are included in this case study.
+Furniture reuse saved money and time at the venue and helped me support both accounts under the budget and production constraints. 
 
 ![Furniture reuse decision connecting Formula 1 resources with Porsche Cup delivery](visuals/04-furniture-reuse.svg)
 
@@ -83,4 +83,4 @@ The Formula 1 VIP hospitality work developed into repeat assignments and a relat
 
 ## Explore the presentation
 
-[index.html](index.html) contains the visual case-study page. Download the project folder to open the page locally, or view through the portfolio website after deployment.
+[Read the public case study](https://lamariah.github.io/STUDIES_AND_RESEARCH/projects/interlagos-event-operations/) and [delivery guide](https://lamariah.github.io/STUDIES_AND_RESEARCH/projects/interlagos-event-operations/resources.html) online. No downloads are needed.
