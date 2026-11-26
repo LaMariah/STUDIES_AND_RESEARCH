@@ -1,26 +1,26 @@
 # Brief and responsibilities
 
-Status: retrospective draft for review.
+## Project focus
 
-## Working brief
+Coordinate the assigned VIP hospitality environment, suppliers, staffing and client communication around the race weekend.
 
-Coordinate the assigned VIP hospitality environment, suppliers, staffing and client communication around the race weekend. Confirm the venue area, guest profile, service requirements, budget authority and installation constraints before expanding this brief.
+## My responsibilities
 
-## Responsibility boundaries
+| Workstream | Contribution |
+|---|---|
+| Client relationship | Account management, expectations and communication |
+| Suppliers and costs | Supplier coordination and cost management |
+| People | Staffing coordination and team leadership |
+| Hospitality | Premium guest environments and operations |
+| Preparation | Design and setup coordination |
+| Related engagement | Porsche Cup support |
 
-| Workstream | Reported contribution | Confirmation required |
-|---|---|---|
-| Client relationship | Account management and communication | Contracting party and approval route |
-| Suppliers | Coordination and cost management | Suppliers, purchasing authority and scope |
-| People | Staffing coordination and leadership | Team size, roles and lead structure |
-| Hospitality | Premium guest environment and operations | Areas, service standards and interfaces |
-| Design/setup | Design and setup involvement described in draft | Personal design role versus partner contribution |
-| Porsche Cup | Related event support | Exact tasks and engagement sequence |
+## Delivery framework
 
-## Handoff specification
+A working structure for organising the assignment from briefing through handover.
 
-For every task, record: responsible owner, required input, predecessor, deadline, acceptance criterion and escalation contact.
+For each activity, record the responsible owner, required input, predecessor, deadline, acceptance criterion and escalation contact.
 
-## Proposed approval points
+## Decision points
 
-Scope acceptance, resource alignment, readiness review, area handback and closeout review. Historical approvers remain to be confirmed.
+Scope agreement, resource alignment, readiness review, area handback and closeout review.

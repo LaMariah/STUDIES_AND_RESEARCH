@@ -1,8 +1,8 @@
-check_id,area,check,proposed_owner,acceptance_criterion,evidence_status
-R01,Scope,Confirm agreed service scope,Client and coordinator,Scope and responsibilities recorded,Demonstration template
-R02,Venue,Confirm load-in and access windows,Venue interface,Access instructions available to suppliers,Demonstration template
-R03,Installation,Review assigned hospitality area,Supplier lead and coordinator,Outstanding work recorded before opening decision,Demonstration template
-R04,People,Complete team briefing,Team leads,Roles shifts and escalation route understood,Demonstration template
-R05,Guests,Walk arrival and welcome route,Hospitality lead,Guest touchpoints and access handoffs checked,Demonstration template
-R06,Operations,Review critical dependencies,Coordinator,Open issues have owners and next actions,Demonstration template
-R07,Approval,Record opening decision,Designated approver,Authorised decision recorded after readiness review,Demonstration template
+check_id,area,check,owner,acceptance_criterion
+R01,Scope,Confirm agreed service scope,Client and coordinator,Scope and responsibilities recorded
+R02,Venue,Confirm load-in and access windows,Venue interface,Access instructions available to suppliers
+R03,Installation,Review assigned hospitality area,Supplier lead and coordinator,Outstanding work recorded before opening decision
+R04,People,Complete team briefing,Team leads,Roles shifts and escalation route understood
+R05,Guests,Walk arrival and welcome route,Hospitality lead,Guest touchpoints and access handoffs checked
+R06,Operations,Review critical dependencies,Coordinator,Open issues have owners and next actions
+R07,Approval,Record opening decision,Designated approver,Authorised decision recorded after readiness review

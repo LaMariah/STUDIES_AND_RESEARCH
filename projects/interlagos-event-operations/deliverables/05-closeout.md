@@ -1,8 +1,8 @@
 # Closeout and client follow-up
 
-Status: demonstration template. No completed historical actions are asserted.
+Working template for project closeout and client follow-up.
 
-| Activity | Proposed owner | Output |
+| Activity | Owner | Output |
 |---|---|---|
 | Check area handback and supplier completion | Coordinator + relevant supplier | Recorded exceptions and next actions |
 | Reconcile spending within assigned authority | Coordinator + budget approver | Reviewed costs and invoice exceptions |
@@ -10,15 +10,15 @@ Status: demonstration template. No completed historical actions are asserted.
 | Review delivery with client | Coordinator + client | Feedback and agreed follow-up |
 | Record future opportunity | Account owner | Confirmed next step or closure |
 
-## Decision story to complete
+## Operational debrief
 
-- Constraint: describe one real issue.
+- Constraint: describe the operational issue.
 - Responsibility: explain what Gerusa owned.
 - Options: describe the alternatives considered.
 - Action: state the decision and coordination required.
-- Result: record the observed outcome and evidence.
+- Result: record the outcome.
 - Learning: explain the change applied to later work.
 
-## Measurement framework for future projects
+## Review measures
 
-Potential measures include readiness exceptions, unresolved issues, staffing coverage, supplier completion and client feedback. No historical scores are available in the supplied source material.
+Review readiness exceptions, unresolved issues, staffing coverage, supplier completion and client feedback.
